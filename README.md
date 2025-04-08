@@ -35,7 +35,7 @@ Whether you're cleaning up stale records or just need quick intel, `mdm-xv` lets
 Make sure you have Go installed (`go version`), then run:
 
 ```bash
-git clone https://github.com/yourusername/mdm-xv.git
+git clone https://github.com/susbot/mdm-xv
 cd mdm-xv
 go build -o mdm-xv mdm-xv.go
 ```  
@@ -155,7 +155,7 @@ Thanks for understanding and supporting the project!
 
 If you’ve found **mdm-xv** helpful, consider supporting its development:
 
-- ☕ [Buy Me a Coffee](https://buymeacoffee.com/YOURHANDLE)
-- ❤️ [Become a Patron on Patreon](https://patreon.com/YOURHANDLE)
-- 💵 Buy the precompiled CLI with updates: [https://susbot.gumroad.com/l/jwskbq]
+- ☕ [Buy Me a Coffee](https://buymeacoffee.com/susbot)
+- 💾 [Buy the CLI on Gumroad](https://susbot.gumroad.com/l/jwskbq)
+- 🌐 [Visit the Official Website](https://mdm-xv.com/)
 
