@@ -121,6 +121,8 @@ The author assumes **no liability or responsibility** for any damages or data lo
 
 Please ensure you comply with your organization's MDM policies and security requirements before using this tool in a production environment.
 
+⚠️ This tool is provided as-is. While I intend to maintain and improve it, I may discontinue support or development at any time without notice.
+
 ## 📚 Dependencies & Acknowledgments
 
 This tool uses the following open source Go libraries:
